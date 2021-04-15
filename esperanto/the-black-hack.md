@@ -1,192 +1,194 @@
-# The Black Hack
+# La Black Hack
 
-(text based on the Black Hack v1.2 - 2016-04-03)
+(texto baze de the Black Hack v1.2 - 2016-04-03)
 
 An ‘OSR’ First Edition Hack  
-developed by  
+„OSR“ variaĵo je la Unua Eldono
+verkita de
 DAVID BLACK  
+
+Tradukita de Arnaud Malivoir
 
 -.-  
 
-With elements borrowed from ‘original’ era rpg gaming and modern d20 theory.  
+Kun pruntaĵoj el la „originala“ erao de rolludoj kaj moderna k20-a teorioj.  
 
-**THANKS TO**  
+**Danko**  
 
-In no particular order - Peter Regan, Tony Tucker, Olav Nygård, Chris McDowall, Mick Reddick, Eric Nieudan, Brian Wille, Jarret Crader, Greg Welty, All the work the Grognards have put into the game, UK OSR Hangouts crew, Everyone who backed the Kickstarter (you're all ace!) plus all those other people who had a hand in developing the hobby we get so much mileage from.
+Sen apara ordo - Peter Regan, Tony Tucker, Olav Nygård, Chris McDowall, Mick Reddick, Eric Nieudan, Brian Wille, Jarret Crader, Greg Welty, la tuta laboro que la Grognard-oj faris, la angla OSR Hangouts teamo, Ĉiuj, kiuj subtenis la Kickstarter (vi estas la plej bonaj) plus ĉiuj kiuj helpis kreskiĝi la ŝatokupon, en kiu ni ege profitis antaŭlonge.
 
 ----
 
-## What’s this?
+## Kio estas tio?
 
-The Black Hack (TBH) is a traditional tabletop roleplaying game, played with paper, pencils and dice - it uses that Original 1970s Fantasy Roleplaying Game as a base. But it adds and takes away elements to make it a distinct streamlined flavour of the original roleplaying game.
+La Black Hack (LBH) estas tradicia surtabla rolludo, ludita per papero, krajonoj kaj multflankaj ĵetkuboj - ĝi uzas tiun Originalan Fantazian Rolludon de la 1970aj jaroj kiel bazon. Sed ĝi aldonas kaj forprenas partoj por igi ĝin klara kaj simpligita speco de la originala rolludo.
 
-## The core mechanic
+## La baza funkciado
 
-Everything a character might possibly attempt that could result in failure is resolved by testing attribute stats, in order to successfully test a stat - a player must roll ***below*** it on a d20.
+Ĉio, kion eble provos rolulo, kaj kiu povus rezultigi fiaskon, estas solvita per testado de atributo. Por sukcese testi atributo - ludanto ruligas ĵeti 20-edra ĵetkubo (k20) kaj devas obteni rezulton ***sub*** sia atributo.
 
-Monsters don’t make tests - a character must avoid their attacks by making a test, the only time a monster would roll is for damage.
+Monstroj ne testas - rolulo devas eviti siajn atakojn sukcesante ruligi. Monstroj ruligas nur por damagôjn.
 
-## Rolling stats
+## Difini atributojn
 
-**Stats** are generated with 3d6 in the following order **Strength (STR), Dexterity (DEX), Constitution (CON), Intelligence (INT), Wisdom (WIS), Charisma (CHA)**. If a stat of 15+ is rolled the next must be rolled with 2d6 + 2, then continue with 3d6 until the end or another 15+ is rolled. Once all stats are generated 2 may be swapped around.
+**Atributoj** estas difini per ruligi 3 6-edra ĵetkubojn (3k6) en la sekvanta ordo: **Forteco (FOR), Lerteco (LER), Kompleksio (KOM), Inteligenteco (INT), Saĝeco (SAĜ), Karismeco (KAR)**. Se la ludanto obtenas pli ol 15, ri devas ruligi nur 2k6 + 2 por la venonta kubĵeto. Poste ri kontinuas ĵeti 3k6 ĝis la fino aŭ se ri denove obtenas alian 15+. Post kiam ĉiuj atributoj estas definitaj, la ludanto povas interŝangi 2 rezultoj.
 
-## Choose a class
+## Elekti klaso
 
-There are 4 choices. Warrior, Cleric, Conjurer, Thief - your class determines how much damage you do, your Hit Points and unique abilities.
+Ekzistas 4 elektoj. Batalisto, Kleriko, Sorĉisto, Fripono. Via klaso difini kiom da damaĝo vi kaŭzas, viajn vivpoentojn kaj unikajn kompetentojn/kapablecojn.
 
-## Buy equipment
+## Aĉeti ekipaĵo
 
-Every new character starts with 3d6 x 10 coins with which to buy their equipment. They also start with a set of clothes and a one handed weapon as allowed by their class.
+Ĉiu nova rolulo komencas kun 3k6 x 10 moneroj per kiuj ri povas aĉeti sian ekipaĵon. Ili ankaŭ komencas kun vestaĵo kaj unumana armilo laŭ permeso de ilia klaso.
 
-## Armor points
+## Armaĵaj poentoj
 
-Armor provides protection by reducing all incoming damage. Each type will reduce damage by a limited amount. **Armor Points** are regained after a character rests. Once the player or monster has used armor to absorb its maximum amount, they are too tired or wounded to make effective use of it again - they then begin taking full damage.
+Armaĵo provizas protekton reduktante ĉiujn alvenantajn damaĝojn. Ĉiu tipo reduktos damaĝon per limigita kvanto. **Armaĵa poentoj** estas reakiritaj post kiam rolulo ripozas. Post kiam la ludanto aŭ monstro uzis armaĵo por sorbi ĝian maksimuman kvanton, ili estas tro lacaj aŭ vunditaj por efike uzi ĝin. Ili tiam komencas plenumi damaĝon.
 
-|     Type     | Points |
-|:------------:|:------:|
-|   Gambeson   |   2    |
-|   Leather    |   4    |
-|  Chain Mail  |   6    |
-| Plate & Mail |   8    |
-| Small shield |   2    |
-| Large shield |   4    |
+|         Typo            | Poentoj |
+|:-----------------------:|:-------:|
+|      Ŝtofa armaĵo       |    2    |
+|       leda armaĵo       |    4    |
+|         Maŝkuto         |    6    |
+|   Plata maŝkuta armaĵo  |    8    |
+|     Malgranda ŝildo     |    2    |
+|      Granda ŝildo       |    4    |
 
-Monsters have 1 point of armor for every **HD** above 1, to figure this out quickly simply -1 from their **HD** - They can also carry shields. (All to a maximum of 10)
+Monstroj havas 1 armilan poenton por ĉiu **VK** super 1. Por solvi tion, simple subtrahi 1 de sia **VK**. Ili ankaŭ povas porti ŝildojn (ĝis maksimume)
 
-## Armor proficiency
+## Sperto kun armaĵo
 
-If a character wears armor that is not listed in their class, they add their total **Armor points** (despite how many they have used) to any rolls to **Attack** or **Avoid Damage**.
-
-
-| ITEM                     |  COST  | USAGE DIE |           NOTES            |
-|:-------------------------|:------:|:---------:|:--------------------------:|
-| Gambeson                 |   50   |     -     |       2 Armor points       |
-| Leather                  |  100   |     -     |       4 Armor points       |
-| Chain Mail               |  350   |     -     |       6 Armor points       |
-| Plate & Mail             |  600   |     -     |       8 Armor points       |
-| Shield Small/Large       | 50/100 |     -     |      2/4 Armor points      |
-| Backpack                 |   5    |     -     |       Carry +2 extra       |
-| Flask of oil             |   2    |    d6     |             -              |
-| Work Tools               |   2    |     -     |             -              |
-| Holy Symbol              |   25   |     -     |  +2 to WIS when banishing  |
-| Holy Water               |   25   |    d4     |             -              |
-| Iron Spikes              |   1    |     -     |             -              |
-| Lantern                  |   10   |     -     |             -              |
-| Handheld mirror          |   5    |     -     |             -              |
-| Preserved Rations        |   15   |    d8     |             -              |
-| Fresh Rations            |   5    |    d4     |             -              |
-| 50' Rope                 |   1    |     -     |             -              |
-| Small Sack               |   1    |     -     |             -              |
-| Large Sack               |   2    |     -     |             -              |
-| Thieves Tools            |   25   |     -     |             -              |
-| Flint & Steel            |   3    |     -     |             -              |
-| Torches (6)              |   1    |    d6     | Each Torch has a Usage Die |
-| Wineskin                 |   1    |    d6     |             -              |
-| Wine                     |   1    |     -     |             -              |
-| Assorted Common Herbs    |   10   |    d8     |             -              |
-| 10' Pole                 |   1    |     -     |             -              |
-| Quiver of Arrows / Bolts |   10   |    d10    |             -              |
-| 2-Handed Weapon          |   50   |     -     |             -              |
+Se rolulo portas armaĵo, kiu ne estas listigita en sia klaso, ili adicias siajn totalajn **Armaĵaj poentoj** (malgraŭ kiom da ili uzis) al iuj kubĵeto por **Ataki** aŭ **Eviti Damaĝon**.
 
 
-## Converting saves
+| EKIPAĴO                              | PREZO  |  ĴETKUBO  |           NOTOJ               |
+|:-------------------------------------|:------:|:---------:|:-----------------------------:|
+| Ŝtofa armaĵo                         |   50   |     -     |      2 Armaĵaj poentoj        |
+| Leda armaĵo                          |  100   |     -     |       4 Armaĵaj poentoj       |
+| Maŝkuto                              |  350   |     -     |       6 Armaĵaj poentoj       |
+| Plata maŝkuta armaĵo                 |  600   |     -     |       8 Armaĵaj poentoj       |
+| Malgranda/granda ŝildo               | 50/100 |     -     |      2/4 Armaĵaj poentoj      |
+| Dorsosako                            |   5    |     -     |       porti +2 plia           |
+| Flakono da oleo                      |   2    |    k6     |             -                 |
+| Laboriloj                            |   2    |     -     |             -                 |
+| Sankta Symbolo                       |   25   |     -     |  +2 to SAĜ kiam forpeli       |
+| Sankta Akvo                          |   25   |    k4     |             -                 |
+| Feraj Pikiloj                        |   1    |     -     |             -                 |
+| Lanterno                             |   10   |     -     |             -                 |
+| Mantenebla spegulo                   |   5    |     -     |             -                 |
+| Konservitaj Porcioj                  |   15   |    k8     |             -                 |
+| Freŝaj Porcioj                       |   5    |    k4     |             -                 |
+| 15 metrojn longa ŝnuro               |   1    |     -     |             -                 |
+| Malgranda Sako                       |   1    |     -     |             -                 |
+| Granda Sako                          |   2    |     -     |             -                 |
+| Ŝtelistaj iloj                       |   25   |     -     |             -                 |
+| siliko kaj ŝtalo                     |   3    |     -     |             -                 |
+| Torĉoj (6)                           |   1    |    k6     | Ĉiu torĉo havas Uzada ĵetkubo |
+| Felsako da vino                      |   1    |    k6     |             -                 |
+| Vino                                 |   1    |     -     |             -                 |
+| Sortimentaj herboj                   |   10   |    k8     |             -                 |
+| 3 metrojn longa stango               |   1    |     -     |             -                 |
+| Plenigita sagujo por arko/arbalesto  |   10   |    k10    |             -                 |
+| Dumana Armilo                        |   50   |     -     |             -                 |
 
-The Black Hack ignores saves and instead asks the player to roll attribute tests when any spell, trap or effect would impact them - using the below as a guide. Remember the advice in the **Powerful Opponents** section.
 
-|                  STR                   |                 DEX                 |            CON            |
-|:--------------------------------------:|:-----------------------------------:|:-------------------------:|
-| Physical Harm that *cannot* be dodged. | Physical Harm that *can* be dodged. | Poison, Disease or Death. |
+## Konverti savĵeto
 
-|             INT             |           WIS            |        CHA        |
+Ne estas savĵeto en La Black Hacks. Anstataŭe, kiam ajna sorŝo, insido aŭ kaŭzo povus efiki la ludanton, ri testas atributo konforme al la segvanta tabelo. Memoru la konsilo en la **Fortegaj K
+
+|                   FOR                     |                  LER                   |            KOM            |
+|:-----------------------------------------:|:--------------------------------------:|:-------------------------:|
+| Fizika Damaĝo ke *ne* povas esti evitita. | Fizika Damaĝo ke *povas* esti evitita. | Veneno, Malsano aŭ Morto. |
+
+|             INT             |           SAĜ            |        KAR        |
 |:---------------------------:|:------------------------:|:-----------------:|
-| Resisting Spells and Magic. | Deception and Illusions. | Charming effects. |
+| Rezisti Sorĉojn kaj Magion. |   Trompo kaj Iluzioj.    |  Ĉarmaj efikoj.   |
 
-## Players turn
+## Ludantaj vicoj
 
-During a player’s turn a character may move and perform an action. They could attack, look for a clue, talk with an NPC, cast a spell - interacting with the world is an action. Often they will test their attributes to determine the outcome.
+Dum la ludanta vico, ludulo povas moviĝi kaj plenumi agon. ri povus ataki, serĉi indiko, paroli kun neludanta rolulo, sorĉi. Interagi kun la mondo estas ago. Ofte la ludanto testos siajn atributojn por determini la rezulton.
 
-## Time & turns
+## Tempo kaj vicoj
 
-There are 2 important types of tracked time - **Moments** (*rounds*) and **Minutes** (*turns*). **Moments** are used during combat and fast paced scenes of danger and **Minutes** are used when exploring and adventuring. A GM may advance the clock as they need substituting **Minutes** for **Hours**, **Days** or even **Months** should the adventure require it.
+Oni devas zorgi pri 2 gravaj specoj de tempo: **Momentoj** (*raŭndoj*) kaj **Minutoj** (*vicoj*). **Momentoj** estas uzataj dum batalo kaj rapidaj danĝeraj scenoj kaj **Minutoj** estas uzataj dum esplorado kaj aventurado. LM povas antaŭenigi la horloĝon, ĉar ri bezonas anstataŭigi **Minutojn** por **Horoj**, **Tagoj** aŭ eĉ **Monatojn** se la aventuro tion postulos.
 
-## Movement & distance
+## Movado kaj distanco
 
-Rather than track precise numbers, TBH uses 4 abstract ranges for measuring distances. **Close**, **Nearby**, **Far-Away** and **Distant**. On their turn every character can move somewhere **Nearby** as part of an action, performing that action at any stage of the move. They can forgo their action and move somewhere **Far-Away** instead. Anything beyond **Far-Away** can be classified as **Distant** and would take 3 moves to get to.
+Prefere ol spuri precizajn nombrojn, TBH uzas 4 abstraktajn ampleksoj por mezuri distancojn . **Kontraŭ**, **Apud**, **For** kaj **Malproksime**. Siavice ĉiu rolulo povas moviĝi ie **Apud** kiel parto de ago, plenumante tiun agon en iu ajn parto de la movo. Ili povas forlasi sian agon kaj moviĝi ien **Malproksime** anstataŭe. Ĉio preter **For** povas esti klasifikita kiel **Malproksima** kaj necesas 3 movojn por atingi ĝin.
 
-This system is designed to support the narrative ‘theatre of the mind’ style of play, and is less concerned about tracking squares and fiddly distances. For converting existing movement rates or measures (for spells or areas of effect) use the following as a guide :
+Ĉi tiu sistemo estas desegnita por subteni la ludmanieron de la 'teatro de la menso' ludmaniero, kaj malpli zorgas pri kalkuladoj de kvadratoj kaj detalaj distancoj. Por konverti ekzistantajn movajn rapidojn aŭ mezurojn (por efikoj de sorĉo aŭ areo) uzu la jenan tabelon kiel gvidilon:
 
-|  CLOSE  |  NEARBY  |  FAR AWAY  |
-|:-------:|:--------:|:----------:|
-| 0 - 5ft | 5 - 60ft | 60 - 120ft |
+| KONTRAŬ  |   APUD    |   FOL    |
+|:--------:|:---------:|:--------:|
+| 0 - 1.5m | 1.5 - 20m | 20 - 35m |
 
-## Initiative
+## Iniciato
 
-When combat breaks out, everyone must be sorted into an order so they each get to act and react in turn. Every character tests their **DEX**, those that succeed, take their turn before their opponents, they must then act as a group - deciding their own order for actions. Those that fail their **DEX** tests, go after their opponents.
+Kiam batalo ekas, ĉiu rolulo devas esti ordigita tiel ke ili agas kaj reagas laŭvice. Ri testas sian **LER**. Tiuj, kiuj sukcesas, laŭvice antaŭ siaj kontraŭuloj, ili tiam devas agi kiel grupo - decidante sian propran ordon de agoj. Tiuj, kiuj malsukcesas siajn **LER** testojn, iras post siaj kontraŭuloj.
 
-## Monster HD
+## Monster VK
 
-**HD** represents a monster's level and the number of d8 rolled to determine its HP.
+**VK** reprezentas la nivelon de monstro kaj la nombron de k8 rulitaj por determini ĝiajn vivkubetojn.
 
+## Ataki, defendi kaj damaĝi
 
-## Attacking, defending & damage
+Kiam rolulo atakas ekzistaĵo, ri devas ruliĝi sub sian **FOR** por **Ĉeatako** aŭ **LER** por **Foratako**. Same, kiam ekzistaĵo atakas, la rolulo devas ruliĝi sub sian **FOR** kontraŭ ĉeatako kaj **LER** kontraŭ foratako por eviti damaĝon. LM ofte donas la necesan atribuon por la testo.
 
-When a character attacks a creature they must roll below their **STR** stat for a **Melee Attack** or **DEX** for a **Ranged Attack**. Likewise, when a creature attacks, the character must roll below its **STR** against a Melee Attack and **DEX** against a Ranged Attack to avoid taking damage. A GM will often give the stat required for the test.
+La ataka damaĝo baziĝas sur la klaso de la rolulo aŭ la nombro de **VK**, kiun monstro havas.
 
-The damage an attack deals is based on the character’s class or the number of **HD** a monster has.
+Por fari **Ĉeatako**, kontraŭulo devas esti ""Kontraŭ**. **Foratakoj** kontraŭ **kontraŭaj** kontraŭloj eblas, sed la atakanto suferas pro **Malavantaĝo**
 
-To make a **Melee Attack** an opponent must be **Close**. **Ranged Attacks** against **Close** opponents are possible, but the attacker suffers a **Disadvantage**.
+**Monstroj** kaŭzas damaĝon laŭ sia **VK** - *rilatu al la sekvanta tabelo*, sed se vi preferus uzi la difektajn statistojn listigitajn en modulo, kiun vi ludas, vi certe povas fari tion anstataŭe .
 
-**Monsters** deal damage based on their **HD** - *refer to the table opposite*, but if you’d prefer to use the damage stats listed in a module that you are playing, you can certainly do that instead.
+## Dumanaj Armiloj
 
-## Two handed weapons
+Pli grandaj kaj pli mortigaj armiloj estas uzataj simple adiciante +2 al iuj ĵetkuboj kun ili. Ili kaŭzas plian damaĝon, sed malfacilas trafi kun ili.
 
-Larger, more deadly weapons are handled simply by adding +2 to any dice rolled with them. They deal additional damage, but are also harder to hit with.
+## Kritika damaĝo
 
-## Critical damage
+Se ludanto ĵetas 1 dum ataka testo, ri duobligas la rezulton de la damaĝaj ĵetkuboj. Se ri ĵetas 20 kiam evitas atakon, ili suferas duoblan damaĝon. **Armaĵaj Poentoj** estas uzataj kutime.
 
-If a player making an attack rolls a 1, they double the result of the damage dice they roll. If they roll a 20 when avoiding an attack, they take double damage. **Armor Points** are used normally.
+| Monstraj VK |     Damaĝoj    |
+|:-----------:|:--------------:|
+|     1       |     k4 (2)     |
+|     2       |     k6 (3)     |
+|     3       |    2k4 (4)     |
+|     4       |    k10 (5)     |
+|     5       |    k12 (6)     |
+|     6       |  k6 + k8 (7)   |
+|     7       |    2k8 (8)     |
+|     8       |    3k6 (9)     |
+|     9       |   2k10 (10)    |
+|     10      | k10 + k12 (11) |
 
-| Monster HD |     Damage     |
-|:----------:|:--------------:|
-|     1      |     d4 (2)     |
-|     2      |     d6 (3)     |
-|     3      |    2d4 (4)     |
-|     4      |    d10 (5)     |
-|     5      |    d12 (6)     |
-|     6      |  d6 + d8 (7)   |
-|     7      |    2d8 (8)     |
-|     8      |    3d6 (9)     |
-|     9      |   2d10 (10)    |
-|     10     | d10 + d12 (11) |
+## Morto kaj mortado
 
-## Death & dying
+Kiam sian **Vivpoento (VP)** egalas al nulo, rolulo estas **Ekstere de Ago (EdeA)**, ri estas senkonsciaj kaj ne povas fari iujn ajn agojn. Kiam la batalo finiĝas aŭ la rolulo estas ekster danĝero, rolulo kiu estas **EdeA** povas ruliĝi sur la sekvanta tabelo por vidi kio okazas al ili. **Se ili travivos, ili gajnos 1k4 VP**.
 
-When a character is reduced to zero **Hit Points (HP)** they are taken **Out of Action (OofA)**, they are unconscious and cannot make any actions. When the fight is over/are out of danger, a character that is taken **OofA** can roll on the table (*following page*) to see what happens to them. **If they survive they gain 1d4 HP**.
+*Se la roluloj perdas la batalon aŭ ne kapablas reakiri la korpon de la rolulo, ili estas perditaj por ĉiam!*
 
-*If the characters lose the fight or are unable to recover the body of the character, they are lost forever!*
+## Fortegaj kontraŭuloj
 
-## Powerful opponents
+Por ĉiu **VK** super la nivelo de la rolulo, aldonu +1 al ĉiu rulo, kiun la ludanto faras por iu ajn atributotesto, kiu determinus la rezulton de konflikto inter ri kaj neludanta rolulo (NLR). *Nivelo 3-rolulo defendanta kontraŭ monstro kun VK 5 kiu atakas aldonus +2 al sia rulo*.
 
-For every **HD** above the character’s level, add +1 to every roll the player makes for any attribute test that would determine the outcome of a conflict between them and an NPC. *- A level 3 character defending against a HD 5 monsters attack would add +2 to their roll*.
+## Sanigi
 
-## Healing
+Luduloj povas akiri Vivpoentojn de Sorĉoj, Pocioj kaj Kapabloj. Ili neniam povas gajni pli ol sia maksimumo - kaj ankaŭ neniam povas subiri nulo. Kiam ri resanigas rin, rolulon kiu estas **EdeA** simple komencu je nulo kaj kalkulu supren. Tiu rolulo nun tute sanigas rin kaj ne plu estas **EdeA**.
 
-Characters can gain Hit Points from Spells, Potions, and Abilities. They can never gain more than their maximum - and can never go below zero either. When healing a character who is **OofA**, just start at zero and count up. That character is now back on their feet and no longer **OofA**.
+| OUT | OF ACTION                                                                     |
+|:---:|:------------------------------------------------------------------------------|
+|  1  | **knokaŭta** - Nur knokaŭta.                                                  |
+|  2  | **Sveneta** - Malavantaĝo por ĉiuj testoj dum la venonta horo                 |
+|  3  | **Rompitaj ostoj** - FOR, LER kaj KON dumtempe suferas -2 dum la venonta tago |
+|  4  | **Kripla** - FOR aŭ LER estas konstante subtrahas per 2                       |
+|  5  | **Misfigurigi** - KAR subtrahas al 4                                          |
+|  6  | **Morta** - Ne plu vivanta                                                    |
 
-| OUT | OF ACTION                                                           |
-|:---:|:--------------------------------------------------------------------|
-|  1  | **KO’d** - Just knocked out.                                        |
-|  2  | **Fat Head** - Disadvantage on all tests for the next hour.         |
-|  3  | **Cracked Bones** - STR, DEX and CON are temp. -2 for the next day. |
-|  4  | **Crippled** - STR or DEX is permanently reduced by 2               |
-|  5  | **Disfigured** - CHA reduced to 4.                                  |
-|  6  | **Dead** - Not alive anymore.                                       |
+## Avantaĝo kaj Malavantaĝo
 
-## Advantage & disadvantage
+LM povas decidi, ke aparta ago havas pli aŭ malpli bonan ŝancon por sukcesi. Ri petos ludanton ĵeti plian k20 dum provado - kun **avantaĝo** la pli malalta rezulto estas uzata kaj kun **malavantaĝo**, la pli alta.
 
-A GM may decide that a particular course of action or task has a higher or lower chance of success. They will ask a player to roll an additional d20 when making a test - with **advantage** the lower result is used and with **disadvantage**, the higher.
-
-## Resting
+## Ripozi
 
 When characters rest for about an hour, they regain the use of all their Armor points. Also once per day, after resting, they may roll a **Hit Die** associated with their class and regain that many **HP**.
 
@@ -200,7 +202,7 @@ For every session / dungeon level / quest / major event the character survives t
 
 ## Gaining levels
 
-When a character levels up, their maximum **Hit Points** increase by rolling the **Hit Die** for the class. Also a player should roll a d20 for each **Stat**, if the result is higher - that **Stat** increases by 1.
+When a character levels up, their maximum **Hit Points** increase by rolling the **Hit Die** for the class. Also a player should roll a k20 for each **Stat**, if the result is higher - that **Stat** increases by 1.
 
 ## Encumbrance
 
@@ -212,7 +214,7 @@ When using a weapon not listed in their class, combat tests have Disadvantage.
 
 ## Random encounters
 
-The GM should roll a d4 every 15 minutes of real world play (you *are* paying attention, right?) A result of 1-2 means the players will encounter a randomly generated creature or distraction in the following **Minutes** (turn).
+The GM should roll a k4 every 15 minutes of real world play (you *are* paying attention, right?) A result of 1-2 means the players will encounter a randomly generated creature or distraction in the following **Minutes** (turn).
 
 ## Creature reactions
 
@@ -231,17 +233,17 @@ Some monsters and NPCs will have predetermined personalities and goals that will
 
 ## Banishing undead
 
-Clerics can attempt to banish all nearby undead as an action. They must successfully test their **WIS** for each group of creatures they are attempting to banish, adding the creature's **HD** to the roll. A GM will determine which creatures are in any particular group.
+Clerics can attempt to banish all nearby undead as an action. They must successfully test their **WIS** for each group of creatures they are attempting to banish, adding the creature's **VK** to the roll. A GM will determine which creatures are in any particular group.
 
-Undead monsters that are **Banished** by Clerics must spend all their movement (and convert actions to movement) to move away from the Cleric for 2d4 **Moments** after being **Banished**.
+Undead monsters that are **Banished** by Clerics must spend all their movement (and convert actions to movement) to move away from the Cleric for 2k4 **Moments** after being **Banished**.
 
 ## Usage die
 
 Any item listed in the equipment section that has a **Usage die** is considered a consumable, limited item. When that item is used the next **Minute** (turn) its **Usage die** is rolled. If the roll is 1-2 then the usage die is downgraded to the next lower die in the following chain:
 
-**d20 > d12 > d10 > d8 > d6 > d4**
+**k20 > k12 > k10 > k8 > k6 > k4**
 
-When you roll a 1-2 on a d4 the item is expended and the character has no more of it left.
+When you roll a 1-2 on a k4 the item is expended and the character has no more of it left.
 
 ## Magic items
 
@@ -255,14 +257,14 @@ Traditional OSR games deal with magic items by adding +1 or +2 to attack rolls a
 
 ## Warrior
 
-**Starting HP :** d10 + 4
-**HP Per Level/Resting :** 1d10
+**Starting HP :** k10 + 4
+**HP Per Level/Resting :** 1k10
 **Weapons & Armor :** Any and All
-**Attack Damage :** 1d8 / 1d6 Unarmed or Improvising
+**Attack Damage :** 1k8 / 1k6 Unarmed or Improvising
 
 ### Special features
 
-Once per hour, whilst in combat, a Warrior can regain d8 lost **HP**.
+Once per hour, whilst in combat, a Warrior can regain k8 lost **HP**.
 
 As part of their action a Warrior can make 1 attack per level.
 
@@ -276,16 +278,16 @@ Roll to see if attributes increase, roll twice for **STR** *and* **DEX**.
 
 ## Thief
 
-**Starting HP :** d6 + 4
-**HP Per Level/Resting :** 1d6
+**Starting HP :** k6 + 4
+**HP Per Level/Resting :** 1k6
 **Weapons & Armor :** All Swords, All Bows, Daggers, Gambeson, Leather, Small Shields
-**Attack Damage :** 1d6 / 1d4 Unarmed or Improvising
+**Attack Damage :** 1k6 / 1k4 Unarmed or Improvising
 
 ### Special features
 
 Roll with Advantage when testing **DEX** to avoid damage or effects from traps and magical devices.
 
-Rolls with Advantage when attacking from behind and deals 2d6 / 2d4 + the Thief's level damage.
+Rolls with Advantage when attacking from behind and deals 2k6 / 2k4 + the Thief's level damage.
 
 Rolls with Advantage when performing delicate tasks, climbing, hearing sounds, moving silently, understanding written languages and opening locks.
 
@@ -297,16 +299,16 @@ Roll to see if attributes increase, roll twice for **DEX** *or* **WIS**.
 
 ## Cleric
 
-**Starting HP :** d8 + 4
-**HP Per Level/Resting :** 1d8
+**Starting HP :** k8 + 4
+**HP Per Level/Resting :** 1k8
 **Weapons & Armor :** All Blunt Weapons, Gambeson, Leather, Chain Mail, All Shields
-**Attack Damage :** 1d6 / 1d4 Unarmed or Improvising
+**Attack Damage :** 1k6 / 1k4 Unarmed or Improvising
 
 ### Special features
 
 Roll with Advantage when testing **CON** to avoid damage from poison or being paralyzed.
 
-A Cleric can spend an action to banish all **Nearby** undead by testing their WIS and adding the creature's HD to the roll.
+A Cleric can spend an action to banish all **Nearby** undead by testing their WIS and adding the creature's VK to the roll.
 
 ### Leveling up
 
@@ -318,16 +320,16 @@ Beginning at second level, Clerics can cast a number of Divine Spells per day, s
 
 ### Spellbook
 
-Clerics start with a large spellbook containing a total of 1d4 spells from the Level 1 and 2 Divine Spell lists.
+Clerics start with a large spellbook containing a total of 1k4 spells from the Level 1 and 2 Divine Spell lists.
 
 ----
 
 ## Conjurer
 
-**Starting HP :** d4 + 4
-**HP Per Level/Resting :** 1d4
+**Starting HP :** k4 + 4
+**HP Per Level/Resting :** 1k4
 **Weapons & Armor :** 1-handed Sword and Staff
-**Attack Damage :** 1d4 / 1 Unarmed or Improvising
+**Attack Damage :** 1k4 / 1 Unarmed or Improvising
 
 ### Special features
 
@@ -343,7 +345,7 @@ Conjurers can cast a number of Arcane Spells per day, see the Spellcasting secti
 
 ### Spellbook
 
-Conjurers start with a large spellbook containing a total of 1d4+2 spells from the Level 1 and 2 Arcane Spell lists.
+Conjurers start with a large spellbook containing a total of 1k4+2 spells from the Level 1 and 2 Arcane Spell lists.
 
 -----
 
@@ -400,7 +402,7 @@ Note: columns are *spell slot levels*, lines are *character levels*.
 
 **1**
 
-* **Cure Light Wounds :** Heal 1d8 HP to a Nearby target.
+* **Cure Light Wounds :** Heal 1k8 HP to a Nearby target.
 * **Detect Evil :** Everything Nearby that is evil glows - 5mins.
 * **Light :** Create dim light from a Nearby spot or object - 1hr.
 * **Protection from Evil :** Advantage on all harmful tests from an Evil source - 1hr.
@@ -410,7 +412,7 @@ Note: columns are *spell slot levels*, lines are *character levels*.
 
 * **Bless :** Nearby allies gain +1 to stats when making attacks and saves - 1hr.
 * **Find Traps :** Notice all nearby traps - 10mins.
-* **Hold Person :** Paralyse 1d4 Nearby targets. Test **WIS** each turn to see if the effect lasts.
+* **Hold Person :** Paralyse 1k4 Nearby targets. Test **WIS** each turn to see if the effect lasts.
 * **Silence :** Magical silence covering everything Nearby to a target - 1hr.
 * **Speak with Animals :** Can understand and talk with animals - 1hr.
 
@@ -419,14 +421,14 @@ Note: columns are *spell slot levels*, lines are *character levels*.
 * **Daylight :** A nearby area is illuminated by sunlight - 1hr.
 * **Cure Disease :** Cures a Nearby target of all diseases.
 * **Locate Object :** Sense direction of a known object - 1 minute/level.
-* **Prayer :** All Nearby allies defend against attacks with Advantage - 1d4 moments.
+* **Prayer :** All Nearby allies defend against attacks with Advantage - 1k4 moments.
 * **Remove Curse :** Removes a curse from a Nearby target.
 * **Speak with Dead :** Ask a Nearby corpse 3 questions.
 
 **4**
 
 * **Create Food/Water :** Create enough food/water for all Nearby creatures for a day.
-* **Cure Serious Wounds :** Heal 3d8+3 HP to a Nearby target.
+* **Cure Serious Wounds :** Heal 3k8+3 HP to a Nearby target.
 * **Neutralise Poison :** Remove/Immunise poison from a Nearby target - 10mins.
 * **Protection from Evil :** Nearby allies gain 6 temp AP against evil creatures - 10mins.
 
@@ -435,15 +437,15 @@ Note: columns are *spell slot levels*, lines are *character levels*.
 * **Commune :** The Cleric's deity truthfully answers 3 questions - 10mins.
 * **Dispel Evil :** Removes a Nearby Divine (Evil) spell.
 * **Finger of Death :** Choose a Nearby target and test **WIS**, if a pass the target is OofA.
-* **Plague :** Test **WIS** for all Nearby targets, they lose 2d8 HP for the next 1d6 turns.
+* **Plague :** Test **WIS** for all Nearby targets, they lose 2k8 HP for the next 1k6 turns.
 * **Quest :** Force a Nearby creature to obey an order.
 * **Raise Dead :** Return a Nearby willing target to life, who's died within the last 7 days.
 
 **6**
 
 * **Animate Object :** Give a Nearby object motion and a simple intelligence - 10mins.
-* **Blade Barrier :** Wall covers a Nearby area, **WIS** to attack Close targets (3d8) - 10mins.
-* **Conjure Elemental :** Summons an elemental with HD equal to caster's lvl -1hr.
+* **Blade Barrier :** Wall covers a Nearby area, **WIS** to attack Close targets (3k8) - 10mins.
+* **Conjure Elemental :** Summons an elemental with VK equal to caster's lvl -1hr.
 * **Find Path :** The path to a chosen location is made known - 1hr.
 * **Speak with Monsters :** Can understand and talk with monsters - 1hr.
 * **Word of Recall :** Give ability to teleport back to the location this spell was cast - 1year.
@@ -454,7 +456,7 @@ Note: columns are *spell slot levels*, lines are *character levels*.
 * **Astral Spell :** Projects an avatar of the caster onto a chosen plane - 1hr.
 * **Control Weather :** Control the Nearby weather to all extremes - 10mins.
 * **Earthquake :** Test **WIS** for all Nearby creatures, passes are taken OofA.
-* **Holy Word :** Nearby creatures with less than 5HD die, 6-10HD paralysed for 1d4 turns.
+* **Holy Word :** Nearby creatures with less than 5VK die, 6-10VK paralysed for 1k4 turns.
 * **Wind Walk :** Turn into mist and back, at will - 1day.
 * **Restoration :** Returns all levels lost to monsters with level drain.
 
@@ -465,9 +467,9 @@ Note: columns are *spell slot levels*, lines are *character levels*.
 * **Charm :** A Nearby target obeys commands. Test **WIS** each turn to see if the effect lasts.
 * **Detect Magic :** Everything Nearby that is magic glows - 5mins.
 * **Light :** Create dim light from a Nearby spot or object - 1hr.
-* **Magic Missile :** A Nearby, Far-Away or Distant target takes 1d4 damage/level.
+* **Magic Missile :** A Nearby, Far-Away or Distant target takes 1k4 damage/level.
 * **Shield :** Gain 2 AP/ level.
-* **Sleep :** Puts 4d6 HD 'worth' of beings to sleep - 8hrs.
+* **Sleep :** Puts 4k6 VK 'worth' of beings to sleep - 8hrs.
 
 **2**
 
@@ -481,24 +483,24 @@ Note: columns are *spell slot levels*, lines are *character levels*.
 
 * **Darkvision :** See in absolute darkness - 10min/level.
 * **Dispel Magic :** Removes a Nearby Arcane spell.
-* **Fireball :** 1d6 Nearby creatures take 1d6/level damage.
+* **Fireball :** 1k6 Nearby creatures take 1k6/level damage.
 * **Read Language/Magic :** Read all languages and magic - 10mins.
 * **Magic Mouth :** Creates an illusory mouth that repeats a phrase to all Nearby creatures.
 
 **4**
 
-* **Confusion :** 2d6 Nearby targets immediately make a Reaction roll.
+* **Confusion :** 2k6 Nearby targets immediately make a Reaction roll.
 * **Dimension Door :** Teleport a target to a Distant Location.
 * **Polymorph Self/Other :** Transform a creature to have the appearance of another.
 * **Remove Curse :** Removes a curse from a Nearby target.
-* **Wall of Fire/Ice :** Wall covers a Nearby area, **WIS** to attack Close targets (3d6) - 10mins.
+* **Wall of Fire/Ice :** Wall covers a Nearby area, **WIS** to attack Close targets (3k6) - 10mins.
 * **Wall of Stone/Iron :** A wall covers a Nearby area - 1hr.
 
 **5**
 
-* **Animate Dead :** Create 2d4 Skeletons/Zombies with HD/level, from nearby bodies.
-* **Cloudkill :** Anyone with less than 5HD that touches it must test INT or be OofA – 1hr.
-* **Conjure Elemental :** Create an Elemental of chosen type with 3d4 HD.
+* **Animate Dead :** Create 2k4 Skeletons/Zombies with VK/level, from nearby bodies.
+* **Cloudkill :** Anyone with less than 5VK that touches it must test INT or be OofA – 1hr.
+* **Conjure Elemental :** Create an Elemental of chosen type with 3k4 VK.
 * **Contact Higher Plane :** Ask 1 question/level.
 * **Feeblemind :** Reduce a Nearby target's **INT** to 4 - 10mins/level.
 * **Telekinesis :** Move Nearby objects - 1hr.
@@ -507,7 +509,7 @@ Note: columns are *spell slot levels*, lines are *character levels*.
 **6**
 
 * **Anti Magic Shell :** Creates a Nearby Zone around the caster blocking all magic.
-* **Death Spell :** 2d8 Nearby targets with 7HD or fewer die.
+* **Death Spell :** 2k8 Nearby targets with 7VK or fewer die.
 * **Disintegrate :** Makes one Nearby target or object turn into a fine powder.
 * **Invisible Stalker :** Summons an extra-dimensional monster to perform one task.
 * **Stone to Flesh :** Turns a Nearby target into stone (or vice versa).
@@ -516,51 +518,51 @@ Note: columns are *spell slot levels*, lines are *character levels*.
 
 * **Limited Wish :** Change reality in a limited way or time.
 * **Power Word, Kill :** A Nearby target with 50HP or fewer dies and cannot be resurrected.
-* **Conjuration of Demons :** Summons a Demon with 2HD/level.
+* **Conjuration of Demons :** Summons a Demon with 2VK/level.
 * **Meteor Swarm :** Effects the same as casting Fireball 4 times.
-* **Time Stop :** Stops time completely in a Nearby area - 1d4+1 Moments.
+* **Time Stop :** Stops time completely in a Nearby area - 1k4+1 Moments.
 
-| Creature          |   HD    | Actions and Specials                                                                                                                           |
+| Creature          |   VK    | Actions and Specials                                                                                                                           |
 |:------------------|:-------:|:-----------------------------------------------------------------------------------------------------------------------------------------------|
-| Fire Beetle       |    1    | Light glands have a usage die of d8.                                                                                                           |
-| Giant Vampire Bat |    1    | 1d6 damage next moment after attack.                                                                                                           |
+| Fire Beetle       |    1    | Light glands have a usage die of k8.                                                                                                           |
+| Giant Vampire Bat |    1    | 1k6 damage next moment after attack.                                                                                                           |
 | Deadly Centipede  |    1    | Bite (0) plus CON test or ‘OofA’ - only has 1-2hp.                                                                                             |
-| Manes Demon       |    1    | 2 Claws (1d2) + 1 Bite (1d4), Half damage from non-magic weapons                                                                               |
-| Goblin            |    1    | Only has 1d6 hp.                                                                                                                               |
+| Manes Demon       |    1    | 2 Claws (1k2) + 1 Bite (1k4), Half damage from non-magic weapons                                                                               |
+| Goblin            |    1    | Only has 1k6 hp.                                                                                                                               |
 | Hobgoblin         |    1    | Usually has a backup shield if one is sundered.                                                                                                |
 | Human Berserker   |    1    | Disadvantage on defense rolls when Berserker attacks.                                                                                          |
-| Giant Ant Warrior |    2    | Poisonous Bite (1d6) + CON test or add 2d6 damage to the attack.                                                                               |
+| Giant Ant Warrior |    2    | Poisonous Bite (1k6) + CON test or add 2k6 damage to the attack.                                                                               |
 | Carrion Creeper   |    2    | Bite (1) + 6 Tentacles (0) + CON test or Paralysed.                                                                                            |
-| Ghoul             |    2    | 2 claws (1d3) + 1 bite (1d4) + CON test or Paralysed.                                                                                          |
+| Ghoul             |    2    | 2 claws (1k3) + 1 bite (1k4) + CON test or Paralysed.                                                                                          |
 | Giant Leech       |    2    | Drains a Level the moment after dealing damage.                                                                                                |
 | Bugbear           |    3    | All DEX tests are rolled with disadvantage.                                                                                                    |
 | Harpy             |    3    | Song - CHA test or PCs must move towards it.                                                                                                   |
 | Wererat           |    3    | Cannot gain Advantage when attempting to surprise a Wererat.                                                                                   |
-| Shadow            |    3    | Touch (1d4 and -1 STR), only hit by magic weapons.                                                                                             |
+| Shadow            |    3    | Touch (1k4 and -1 STR), only hit by magic weapons.                                                                                             |
 | Doppleganger      |    3    | Change form in a moment, disadvantage against magic tests.                                                                                     |
 | Wight             |    3    | Can only be hit by magical or silver weapons, Drain 1 Level with Hit.                                                                          |
 | Blink Dog         |    4    | Teleport nearby once per fight.                                                                                                                |
-| Grizzly Bear      |    4    | 2 claws (1d3) + if both hit hug for 1d8 damage.                                                                                                |
-| Gargoyle          |    4    | 2 claws (1d3) + 1 bite (1d4) + 1 horn (1d6).                                                                                                   |
+| Grizzly Bear      |    4    | 2 claws (1k3) + if both hit hug for 1k8 damage.                                                                                                |
+| Gargoyle          |    4    | 2 claws (1k3) + 1 bite (1k4) + 1 horn (1k6).                                                                                                   |
 | Gelatinous Cube   |    4    | CON test on touch or be Paralysed, immune to cold and lightning.                                                                               |
 | Werewolf          |    4    | Only silver weapons can hurt it.                                                                                                               |
 | Ogre              |    4    | Gives advantage on all CHA tests made against it.                                                                                              |
-| Cockatrice        |    5    | Bite (1d3) and CON test or Petrified.                                                                                                          |
-| Owlbear           |    5    | 2 claws (1d6) + 1 bite (2d6) + Hug for 2d8 if to-hit roll is 1-4.                                                                              |
+| Cockatrice        |    5    | Bite (1k3) and CON test or Petrified.                                                                                                          |
+| Owlbear           |    5    | 2 claws (1k6) + 1 bite (2k6) + Hug for 2k8 if to-hit roll is 1-4.                                                                              |
 | Basilisk          |    6    | CON test on eye contact or be petrified.                                                                                                       |
-| Succubus/Incubus  |    6    | 2 Claws (1d3), Advantage on magic tests, immune to non magic weapons, level drain (-1) with kiss. Can cast Charm person (spell) once per hour. |
+| Succubus/Incubus  |    6    | 2 Claws (1k3), Advantage on magic tests, immune to non magic weapons, level drain (-1) with kiss. Can cast Charm person (spell) once per hour. |
 | Mummy             |    6    | Attacks stop healing until cure wounds cast, immune to normal weapons, half damage from magic weapons.                                         |
-| Banshee           |    7    | Shriek - CON test or Paralysed for 2d6 moments.                                                                                                |
+| Banshee           |    7    | Shriek - CON test or Paralysed for 2k6 moments.                                                                                                |
 | Djinni            |    7    | Can take Gaseous Form, Create Objects, Create Illusions, Cast Invisibility (spell) as action.                                                  |
-| Spectre           |    8    | A person killed by a Spectre will become a Spectre in 1d6 minutes.                                                                             |
-| Chimera           |    8    | 2 Claws (1d3) + 2 Goat horns (1d4) + 1 Lion bite (2d4) + 1 Dragon bite (3d4) or Breathes fire as a Dragon (3d8).                               |
-| Balor Demon       |    9    | Sword (1d12+2) + Whip (0) DEX test or be pulled Close to the Balor and burnt for 3d6 fire damage.                                              |
-| Hezrou Demon      |    9    | 2 Claws (1d3) + 1 Bite (2d8), Cause Fear (as per Banish) or Darkness (spell) - each once per fight.                                            |
+| Spectre           |    8    | A person killed by a Spectre will become a Spectre in 1k6 minutes.                                                                             |
+| Chimera           |    8    | 2 Claws (1k3) + 2 Goat horns (1k4) + 1 Lion bite (2k4) + 1 Dragon bite (3k4) or Breathes fire as a Dragon (3k8).                               |
+| Balor Demon       |    9    | Sword (1k12+2) + Whip (0) DEX test or be pulled Close to the Balor and burnt for 3k6 fire damage.                                              |
+| Hezrou Demon      |    9    | 2 Claws (1k3) + 1 Bite (2k8), Cause Fear (as per Banish) or Darkness (spell) - each once per fight.                                            |
 | Black Pudding     |   10    | Metal objects that touch it melt the next moment.                                                                                              |
 | Frost Giant       |   10    | Throws boulders or great chunks of ice.                                                                                                        |
 | Stone Golem       |   12    | Only spells that affect rock or stone work, weapons must be +2 or better to damage it.                                                         |
-| Giant Slug        |   12    | Spit Acid - d4+2 nearby targets (1d12) test DEX for 1/2 damage.                                                                                |
-| Dragon            | 9 to 11 | 2 Claws (1d8) + Bite (1d10), Breathes fire - d4+2 nearby targets (3d8) Can cast 1d4 1st level spells + 1d2 2nd level spells.                   |
+| Giant Slug        |   12    | Spit Acid - k4+2 nearby targets (1k12) test DEX for 1/2 damage.                                                                                |
+| Dragon            | 9 to 11 | 2 Claws (1k8) + Bite (1k10), Breathes fire - k4+2 nearby targets (3k8) Can cast 1k4 1st level spells + 1k2 2nd level spells.                   |
 
 ## Example of play
 
@@ -570,13 +572,13 @@ Note: columns are *spell slot levels*, lines are *character levels*.
 **Thief :** I'll move to it and as my action I’ll check it for traps.
 **Warrior :** Assuming it's safe, I want to bend the bars.
 **Conjurer :** And I want to cast light on my staff.
-**DM :** Ok, Thief, test your Wisdom by rolling a d20 under your WIS score - to check the portcullis for traps.
+**DM :** Ok, Thief, test your Wisdom by rolling a k20 under your WIS score - to check the portcullis for traps.
 **Thief :** \*rolls\* Made it!
 **DM :** You're confident it's free of anything designed to do you harm, Warrior, still want to bend the bars? If so test your Strength!
 **Warrior :** \*rolls\* Piece of cake!
 **DM :** Good stuff, now Conjurer, you cast Light on your staff. That's a level 1 spell right?
 **Conjurer :** Yup.
-**DM :** Ok, well test your Intelligence and add one to your d20 roll, if you fail you lose a level one spell slot for the rest of the day.
+**DM :** Ok, well test your Intelligence and add one to your k20 roll, if you fail you lose a level one spell slot for the rest of the day.
 **Conjurer :** \*rolls\* I need to roll under, not on it, right?
 **DM :** That's right.
 **Conjurer :** Damn, I failed.
@@ -584,7 +586,7 @@ Note: columns are *spell slot levels*, lines are *character levels*.
 **Warrior :** Explore down the tunnel..?
 **Thief :** Agreed! I'll sneak ahead.
 **Conjurer :** And I’ll protect the rear!
-**DM :** Ok Thief, you move down the sewer, still Nearby to your friends, please test your Dexterity to see how quiet you are - remember you get Advantage on tests when sneaking, roll two d20's and choose the result you like.
+**DM :** Ok Thief, you move down the sewer, still Nearby to your friends, please test your Dexterity to see how quiet you are - remember you get Advantage on tests when sneaking, roll two k20's and choose the result you like.
 **Thief :** \*rolls\* despite rolling two dice I’ve got a 17 and 19. What are the odds?
 **DM :** Ouch. You're making so much noise being sneaky, a Ghoul hiding in the darkness close to you leaps and attacks!
 **Thief :** Bugger!
